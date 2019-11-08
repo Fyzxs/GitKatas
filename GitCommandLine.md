@@ -23,7 +23,7 @@ There's already a solution `GitPractice.sln` that can be opened once the project
     * Clone this repository.
         * `git clone https://github.com/Fyzxs/GitKata.git`
     * Navigate into the created directory
-        * `cd AgileCoaching_Git`
+        * `cd GitKata`
     * Create a branch
         * `git branch [UniqueNameNoSpaces]`
     * Switch to the new branch
